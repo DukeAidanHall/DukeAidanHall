@@ -3,7 +3,7 @@
 <h3 align="left">About Me</h3>
 Currently employed at DataAnnotation as an AI Developer. Looking to leverage the skills gained from my AI experience, extensive game development, and heavily computational projects to design new technology and explore digital intelligence. </p>
 
-[30-Second Video Intro](https://www.wevideo.com/class#view-media/3505900504/) (Game Design)
+[30-Second Video Intro](https://www.wevideo.com/view/3505900504) (Game Design)
 
 
 <h3 align="left">Connect with me:</h3>
