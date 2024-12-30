@@ -25,12 +25,12 @@
 - 🏫 **Education**: 
   - <strong>Duke University (2023 - Present)</strong>  
     GPA: 3.95, Coursework: Discrete Math, Data Structures & Algorithms, Computer Architecture, Advanced Probability
-- 🎮 **Game Design**: 
-  - Creator of the <strong>“C(n,k)ombieEval7”</strong> project, a 7-card Poker Hand Evaluation Calculator using advanced combinatorics.
+- 🎮 **Game Design**:
+  - Participant in the Duke FOCUS Program, specifcally the VR, Fictional Worlds, and Games Cluster.
   - Led and contributed to major <strong>online game fundraisers</strong>, raising thousands for educational causes.
 - 💡 **Math & Tech**: 
-  - Former math team champion, 2-time ICTM Regionals Individual Champion, 3-time ICTM State top 10 scorer.
-  - Taco Bell <strong>Live Más Scholarship</strong> recipient (2-time) for achievements in game design!
+  - Former mathlete, 2-time ICTM Regionals Individual Champion, 3-time ICTM State top 10 scorer.
+  - Creator of the <strong>“C(n,k)ombiEval7”</strong> project, a 7-card Poker Hand Evaluation Calculator App using advanced combinatorics.
 - 🌐 **Career Interests**: 
   - AI-based systems, game engines, full-stack development, entrepreneurial ventures in EdTech, and more.
 
@@ -118,7 +118,8 @@
 ## 🎯 Get in Touch
 
 - **Email**: [studentaidanhall@gmail.com](mailto:studentaidanhall@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](#) <!-- Replace '#' with your actual LinkedIn URL if desired -->
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/aidan-hall-30255025a/)
+- **Porfolio**: [My Website](https://dukeaidanhall.github.io/)
 - **Location**: Elmhurst, IL 60126
 
 <p align="center">
