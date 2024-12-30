@@ -96,8 +96,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AidanHall&show_icons=true&hide_border=true&theme=radical" alt="AidanHall's stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AidanHall&hide_border=true&theme=radical" alt="AidanHall's streak"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DukeAidanHall&show_icons=true&hide_border=true&theme=radical" alt="DukeAidanHall's stats"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DukeAidanHall&hide_border=true&theme=radical" alt="DukeAidanHall's streak"/>
+
 </div>
 
 <!-- 
