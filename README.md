@@ -1,16 +1,128 @@
-<h1 align="center">Hey There! 👋, I'm Aidan</h1>
-<h3 align="center">A college student and passionate developer</h3>
-<h3 align="left">About Me</h3>
-Currently employed at DataAnnotation as an AI Developer. Looking to leverage the skills gained from my AI experience, extensive game development, and heavily computational projects to design new technology and explore digital intelligence. </p>
+<!--
+  Tip: Change the "img" sources, shield URLs, or your GitHub username (AidanHall) 
+  wherever appropriate. 
+  Also, feel free to remove any sections you don't want or add new ones.
+-->
 
-[30-Second Video Intro](https://www.wevideo.com/view/3505900504) (Game Design)
+<h1 align="center">Hi there, I'm Aidan Hall!</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=007ACC&lines=Computer+Science+%26+Math+at+Duke+University;Software+Developer+%7C+AI+Enthusiast;Game+Designer+%7C+Math+Team+Champion" alt="Typing SVG" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<h3 align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aidan-hall-30255025a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aidan-hall-30255025a/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aidanhall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aidanhall" height="30" width="40" /></a>
+<p align="center">
+  <strong>Second-year computer science & mathematics double major at Duke University</strong> <br>
+  <em>Specializing in AI, software development, and game design</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h3 align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
+
+## About Me
+
+- 📚 **Current Focus**: 
+  - Diving into <strong>AI development</strong> and advanced <strong>math-driven software</strong> solutions.
+  - Building <strong>interactive games</strong> that merge creativity with cutting-edge technology.
+- 🏫 **Education**: 
+  - <strong>Duke University (2023 - Present)</strong>  
+    GPA: 3.95, Coursework: Discrete Math, Data Structures & Algorithms, Computer Architecture, Advanced Probability
+- 🎮 **Game Design**: 
+  - Creator of the <strong>“C(n,k)ombieEval7”</strong> project, a 7-card Poker Hand Evaluation Calculator using advanced combinatorics.
+  - Led and contributed to major <strong>online game fundraisers</strong>, raising thousands for educational causes.
+- 💡 **Math & Tech**: 
+  - Former math team champion, 2-time ICTM Regionals Individual Champion, 3-time ICTM State top 10 scorer.
+  - Taco Bell <strong>Live Más Scholarship</strong> recipient (2-time) for achievements in game design!
+- 🌐 **Career Interests**: 
+  - AI-based systems, game engines, full-stack development, entrepreneurial ventures in EdTech, and more.
+
+---
+
+## ⚙️ Tech Stack & Tools
+
+<p align="center">
+  <!-- You can replace or reorder these badges as you see fit -->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Unreal Engine-313131?style=flat&logo=unreal-engine&logoColor=white" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/MIPSAssembly-555555?style=flat" alt="MIPS Assembly" />
+  <img src="https://img.shields.io/badge/Logisim-blue?style=flat" alt="Logisim" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+## ⚡ Current Projects
+
+- **AI Developer @ DataAnnotation (2024 – Present)**
+  - Analyzing AI thinking patterns and algorithms for self-designed prompts.
+  - Identifying discrepancies and deep-diving into the root causes of errors in advanced AI models.
+
+- **Game Design & Development**
+  - Leading or collaborating on various game projects, including multi-user fundraisers.
+  - <strong>Check out my 30-second video overview here:</strong> [WeVideo Link](https://www.wevideo.com/view/3656738608)
+
+- **C(n,k)ombieEval7 (7-Card Poker Evaluator)**
+  - Built in Flutter (Dart) to calculate winning probabilities & reduce large memory usage 
+    through advanced combinatorics.
+
+---
+
+## 🏆 Achievements & Awards
+
+- **Math Team Honors**:
+  - 2-Time ICTM Regionals Individual Champion  
+  - 3-Time ICTM State Top 10 Scorer (Oral & Calculator Teams)  
+  - IML / ICTM Perfect Scorer
+- **Leadership & Scholarship**:
+  - <strong>Taco Bell Live Más Scholarship</strong> (2-Time Recipient)  
+    - Awarded for excellence in game design from a pool of over 10,000 applicants
+  - WSML Math Leadership Award
+  - Morehead-Cain Scholarship Semifinalist (UNC Full Ride Award)
+
+---
+
+## 🤝 Open Source & Collaboration
+
+- **Interested in AI, ML, and Simulation Projects**: I love collaborating on or contributing to open-source AI-driven solutions, game engines, and data visualization.
+- **Community Fundraisers**: Organized and raised $20,000+ through online eSport-based fundraisers.
+
+> **Have a project in mind?** Feel free to reach out—always open to new, exciting challenges!
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AidanHall&show_icons=true&hide_border=true&theme=radical" alt="AidanHall's stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AidanHall&hide_border=true&theme=radical" alt="AidanHall's streak"/>
+</div>
+
+<!-- 
+  Tip: If the above stats aren’t working properly, try using a personal token or 
+  another variant from: https://github.com/anuraghazra/github-readme-stats 
+-->
+
+---
+
+## ✨ Fun Facts
+
+- 🎲 **Favorite Probability Puzzle**: 7-card Texas Hold’em math challenges—leading me to create my own computing solutions.
+- 💻 **Passionate Lifelong Learner**: Always exploring new programming languages or frameworks (recently focusing on MIPS Assembly & Logisim for low-level system insights).
+- 🚀 **Future Goals**: Develop a fully immersive AI-powered game environment that teaches computational thinking to students worldwide.
+
+---
+
+## 🎯 Get in Touch
+
+- **Email**: [studentaidanhall@gmail.com](mailto:studentaidanhall@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](#) <!-- Replace '#' with your actual LinkedIn URL if desired -->
+- **Location**: Elmhurst, IL 60126
+
+<p align="center">
+  <strong>Thanks for stopping by!</strong>  
+  <br />
+  <em>"Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding." – William Paul Thurston</em>
+</p>
