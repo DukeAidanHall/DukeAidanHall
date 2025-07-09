@@ -1,9 +1,5 @@
 <h1 align="center">Hey, I'm Aidan Hall 👋</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=007ACC&center=true&vCenter=true&multiline=true&lines=CS+%26+Math+@+Duke+University;Software+Engineer+%7C+AI+Developer;Game+Designer+%7C+Mathlete" alt="Typing SVG" />
-</div>
-
 <p align="center">
   <strong>Third‑year Computer Science & Mathematics double major at Duke University</strong><br/>
   <em>Building AI‑powered systems, data‑driven games, and cloud integrations that make life easier.</em>
@@ -15,7 +11,7 @@
 
 - 🔭 **Current Roles**
   - *IT Development Intern @ Dexter Axle* — orchestrating Azure Logic Apps & SQL views that cut processing time by **80 %**.
-  - *AI Agent Swarm Intern @ Teleperson* — co‑founder & backend lead for **SpeakEasy**, matching **5 k+** speakers to events with multi‑agent orchestration.
+  - *AI Agent Swarm Intern @ Teleperson* — co‑founder & backend lead for **SpeakEasy**, matching speakers to events with multi‑agent orchestration.
   - *Undergrad TA @ Duke* — guiding **150 +** students in Discrete Math, Multivariable Calculus & Probability.
 - 🎓 **Education**: Duke University ’27 · GPA **3.89/4.00** · Dean’s List with Distinction.
 - 📈 **Strengths**: algorithm design, cloud automation, prompt engineering, full‑stack & game dev.
@@ -48,8 +44,8 @@
 
 | Project | Tech | Highlights |
 |---------|------|-----------|
-| **[SpeakEasy](https://github.com/DukeAidanHall/SpeakEasy)** | Python · TypeScript · FastAPI · Azure | AI‑powered platform matching speakers & conferences with multi‑agent Swarm orchestration. |
-| **[C(n,k)ombiEval7](https://github.com/DukeAidanHall/CombiEval7)** | Dart · Flutter | Replaced **500 + MB** lookup tables with closed‑form combinatorics, reducing memory **~98 %** for 7‑card poker odds. |
+| **SpeakEasy** | Python · TypeScript · FastAPI · Azure | AI‑powered platform matching speakers & conferences with multi‑agent Swarm orchestration. |
+| **[C(n,k)ombiEval7](https://github.com/DukeAidanHall/C-n-k-ombiEval7)** | Dart · Flutter | Replaced **500 + MB** lookup tables with closed‑form combinatorics, reducing memory **~98 %** for 7‑card poker odds. |
 | **[BeeWise](https://github.com/25dlee/BeeWise)** | React · Goose3 · OpenAI | Gamified news reader that rewards diverse viewpoints using bias classification & leaderboards. |
 | **[CATGETMOUSE Interpreter](https://github.com/DukeAidanHall/cat-mouse-interpreter)** | Java · JFLAP · Swing | DFA‑driven SLR(1) parser & AST visualizer for a custom language simulating cat/mouse games. |
 | **Azure Integration Workflows** | Azure Logic Apps · SQL | Automated parcel‑tracking & charge processing, cutting latency **80 %** and eliminating dupes. |
@@ -88,9 +84,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DukeAidanHall&show_icons=true&hide_border=true&theme=radical" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DukeAidanHall&hide_border=true&theme=radical" />
 </div>
-
----
-
-<p align="center">
-  <em>“Mathematics reveals its secrets only to those who approach it with pure love, for its own beauty.” — Pythagoras</em>
-</p>
