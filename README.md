@@ -10,9 +10,9 @@
 ## 🚀 About Me
 
 - 🔭 **Current Roles**
-  - *IT Development Intern @ Dexter Axle* — orchestrating Azure Logic Apps & SQL views that cut processing time by **80 %**.
-  - *AI Agent Swarm Intern @ Teleperson* — co‑founder & backend lead for **SpeakEasy**, matching speakers to events with multi‑agent orchestration.
-  - *Undergrad TA @ Duke* — guiding **150 +** students in Discrete Math, Multivariable Calculus & Probability.
+  - *IT Development Intern @ Dexter Axle* - orchestrating Azure Logic Apps & SQL views that cut processing time by **80 %**.
+  - *AI Agent Swarm Intern @ Teleperson* - co‑founder & backend lead for **SpeakEasy**, matching speakers to events with multi‑agent orchestration.
+  - *Undergrad TA @ Duke* - guiding **150 +** students in Discrete Math, Multivariable Calculus & Probability.
 - 🎓 **Education**: Duke University ’27 · GPA **3.89/4.00** · Dean’s List with Distinction.
 - 📈 **Strengths**: algorithm design, cloud automation, prompt engineering, full‑stack & game dev.
 - 💡 **Goal**: merge AI, math, and interactive tech to create tools that educate & empower.
@@ -54,9 +54,9 @@
 
 ## 🏆 Awards & Scholarships
 
-- **Taco Bell Live Más Scholar** — 3× recipient, top 3 % (~$15 k).
-- **Morehead‑Cain Scholarship** — Semifinalist (~$320 k full‑ride potential).
-- **CS Dept. Outstanding TA Award** — Duke University 2025.
+- **Taco Bell Live Más Scholar** - 3× recipient, top 3 % (~$15 k).
+- **Morehead‑Cain Scholarship** - Semifinalist (~$320 k full‑ride potential).
+- **CS Dept. Outstanding TA Award** - Duke University 2025.
 - **ICTM** 2× Regional Champion · 3× State Top‑10 · Perfect Scorer.
 - **Illinois Math League** Perfect Scorer · WSML MVP Leadership Award.
 
@@ -65,8 +65,8 @@
 ## ⚡ Fun Bits
 
 - Row with **Duke Club Rowing**, swing a bat with **Club Cricket**, and stay sharp with **weightlifting & basketball**.
-- Raised **$21 k** for local schools via game‑based fundraisers.
-- Always exploring new tech — latest dive: **multi‑agent systems & RL‑powered game AI**.
+- Raised **$21k** for local schools via game‑based fundraisers.
+- Always exploring new tech - latest dive: **multi‑agent systems & RL‑powered game AI**.
 
 ---
 
