@@ -2,7 +2,6 @@
 
 <p align="center">
   <strong>Computer Science & Mathematics double major at Duke University</strong><br/>
-  <em>Building AI-powered systems, cloud automations, and interactive tools that turn complexity into clarity.</em>
 </p>
 
 ---
@@ -10,10 +9,11 @@
 ## 🚀 About Me
 
 - 🔭 **Current & Recent Roles**
-  - *IT Development Intern @ Dexter Axle* — designed Azure Logic App + SQL pipelines that cut processing latency by **~80%** and save **$160K–$190K annually**.
-  - *AI Agent Swarm Intern @ Teleperson* — backend engineer and co-founder on **SpeakSeeker**, an AI platform matching speakers to conferences using multi-agent orchestration.
-  - *Undergraduate TA @ Duke University* — supported **150+ students** across Discrete Math, Multivariable Calculus, and Probability.
-- 🎓 **Education**: Duke University ’27 · GPA **3.89 / 4.00** · Dean’s List with Distinction  
+  - *Full Stack Engineer / Founder @ SpeakSeeker* — check out speakseeker.com
+  - *IT Development Intern @ Dexter Axle* — designed Azure Logic App + SQL pipelines that cut processing latency by ~80% predicted to save $160K–$190K annually
+  - *AI Agent Swarm Intern @ Teleperson* — developed complex agentic networks and useful automations
+  - *Undergraduate TA @ Duke University* — supported 150+ students across Discrete Math, Multivariable Calculus, and Probability.
+- 🎓 **Education**: Duke University ’27 · GPA: 3.9 / 4.0 · 2x Dean’s List with Distinction  
 - 📈 **Strengths**: systems design, cloud automation, AI agents, full-stack development, mathematical modeling  
 - 💡 **Goal**: build AI-driven systems that educate, scale, and meaningfully improve real-world workflows
 
@@ -44,7 +44,7 @@
 
 | Project | Tech | Highlights |
 |--------|------|------------|
-| **SpeakSeeker** | Python · TypeScript · FastAPI · Azure | AI platform that matches speakers to conferences using ranking agents, vector search, and multi-agent orchestration. |
+| **[SpeakSeeker](https://speakseeker.com)** | Python · TypeScript · FastAPI · Azure | AI platform that matches speakers to conferences using ranking agents, vector search, and multi-agent orchestration. |
 | **[C(n,k)ombiEval7](https://github.com/DukeAidanHall/C-n-k-ombiEval7)** | Dart · Flutter | Replaced **500+ MB** lookup tables with closed-form combinatorics, reducing memory usage by **~98%** for 7-card poker odds. |
 | **[BeeWise](https://github.com/25dlee/BeeWise)** | React · Goose3 · OpenAI | Gamified news reader that encourages diverse viewpoints via bias detection and leaderboard incentives. |
 | **[CATGETMOUSE Interpreter](https://github.com/DukeAidanHall/cat-mouse-interpreter)** | Java · JFLAP · Swing | DFA-driven SLR(1) parser and AST visualizer for a custom language simulating cat-and-mouse games. |
@@ -59,14 +59,6 @@
 - **CS Department Outstanding TA Award** — Duke University
 - **ICTM** — 2× Regional Champion · 3× State Top-10 · Perfect Scorer
 - **Illinois Math League** — Perfect Scorer · WSML MVP Leadership Award
-
----
-
-## ⚡ Fun Bits
-
-- Compete with **Duke Club Rowing**, lift daily, and play basketball when time allows  
-- Helped raise **$21K** for local schools through game-based fundraisers  
-- Currently exploring **multi-agent systems, reinforcement learning, and AI-driven game mechanics**
 
 ---
 
@@ -88,5 +80,3 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DukeAidanHall&show_icons=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DukeAidanHall&hide_border=true&theme=radical" />
-</div>
