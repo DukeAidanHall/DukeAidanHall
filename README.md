@@ -7,13 +7,7 @@
 ---
 
 ## 🚀 About Me
-
-- 🔭 **Current & Recent Roles**
-  - *Full Stack Engineer / Founder @ SpeakSeeker* — check out speakseeker.com
-  - *IT Development Intern @ Dexter Axle* — designed Azure Logic App + SQL pipelines that cut processing latency by ~80% predicted to save $160K–$190K annually
-  - *AI Agent Swarm Intern @ Teleperson* — developed complex agentic networks and useful automations
-  - *Undergraduate TA @ Duke University* — supported 150+ students across Discrete Math, Multivariable Calculus, and Probability.
-- 🎓 **Education**: Duke University ’27 · GPA: 3.91 · 2x Dean’s List with Distinction  
+- 🎓 **Education**: Duke University ’27 · GPA: 3.9 · 2x Dean’s List with Distinction  
 - 📈 **Strengths**: systems design, cloud automation, AI agents, full-stack development, mathematical modeling  
 - 💡 **Goal**: build AI-driven systems that educate, scale, and meaningfully improve real-world workflows
 
@@ -61,6 +55,3 @@
 - **Illinois Math League** — Perfect Scorer · WSML MVP Leadership Award
 
 ---
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DukeAidanHall&show_icons=true&hide_border=true&theme=radical" />
