@@ -114,7 +114,7 @@ Unreal Engine 4 · Unity · GameMaker · Pico-8 · Godot · Logisim · JFLAP · 
 ## Awards & Activities
 
 **Awards**  
-Taco Bell Live Mas Scholar (4x, $20,000 total) · Morehead-Cain Scholarship Semifinalist · ICTM Regional Champion (2x) · ICTM State Top 10 Scorer (3x) · IML and ICTM Perfect Scorer · Del Meitz - Thomas Nelson Outstanding Math Award · WSML MVP Math Leadership Award
+Taco Bell Live Mas Scholar (4x, $20,000 total) · Morehead-Cain Scholarship Semifinalist · ICTM Regional Champion (2x) · ICTM State Top 10 Scorer (3x) · IML and ICTM Perfect Scorer · Del Meitz - Thomas Nelson Outstanding Math Award · WSML MVP Math Leadership Award · Hometown Pride Scholarship Finalist
 
 **Activities**  
 Theta Chi Fraternity · Club Rowing · Adaptive Explorers · Hackathons · Duke FOCUS · Math Union · Weightlifting
