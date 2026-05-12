@@ -1,4 +1,4 @@
-<h1 align="center">Aidan Hall</h1>
+<h1 align="center">Aidan Hall // Engineering in Public</h1>
 
 <p align="center">
   <a href="https://speakseeker.com">Personal Website</a> •
@@ -7,18 +7,23 @@
 </p>
 
 <p align="center">
-  <strong>CS + Math @ Duke | AI Systems | Full-Stack Engineering | Cloud Automation</strong>
+  <strong>CS + Math @ Duke | AI Systems | Full-Stack Builder | Cloud Automation</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Current-SpeakSeeker-00B8D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Incoming-MetLife%20Intern-7C4DFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Shipping%20Systems-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Now-Building%20SpeakSeeker-00B8D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next-MetLife%20Global%20Tech-7C4DFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%2B%20Automation-FF6D00?style=for-the-badge" />
+</p>
+
+<p align="center">
+  I build high-leverage software: AI agents, cloud pipelines, and products that turn complexity into usable systems.
 </p>
 
 ---
 
-## Education
+## Academic Core
 
 ### Duke University
 **B.S. Computer Science + B.S. Mathematics, Digital Intelligence Certificate**  
@@ -35,70 +40,70 @@ Aug 2019 - May 2023
 
 ---
 
-## Work Experience
+## Build Log
 
 ### Incoming Global Technology Intern - MetLife
 June 2026 - Aug 2026
 
-- Will contribute to production software engineering projects as a METx intern.
-- Will develop and test full-stack solutions in Agile teams using modern cloud and AI tooling.
+- Incoming METx intern shipping production software in Agile teams.
+- Focus areas: full-stack implementation, testing, and modern cloud/AI workflows.
 
 ### Full-Stack Developer / Founder - SpeakSeeker
 Aug 2025 - Present
 
-- Leading development of `speakseeker.com`, a SaaS platform using AI-powered search, scraping, and intelligent matching for speakers and events.
-- Building dynamic profile creation, advanced filters, messaging, and contract-management workflows.
-- Developing AI agents that source users, generate accounts, and deliver completed profiles to automate onboarding.
+- Leading development of `speakseeker.com`, an AI-powered speaker-event matching platform.
+- Building dynamic profile generation, advanced filtering, messaging, and contract-management workflows.
+- Shipping autonomous onboarding agents that source users, create accounts, and deliver completed profiles.
 
 ### Software Engineer Intern - Dexter Axle Company
 May 2025 - Aug 2025
 
-- Designed a PO-attachment automation flow with Azure Functions + D365 APIs, transforming a manual 1-minute upload into a 5-second email-forward process.
-- Delivered daily operational gains for 11 planners, saving about 2,860 hours and roughly `$160K-$190K` annually.
-- Re-architected parcel-charge and tracking pipelines from legacy C#/SQL jobs into Azure Logic Apps + modular SQL Server views.
-- Implemented fan-out/merge and multi-level parallelism patterns to reduce latency by 80%, eliminate duplication, and restore SLA-grade alerts.
+- Engineered a PO-attachment automation system with Azure Functions + D365 APIs, converting a 1-minute manual flow into a 5-second email-forward action.
+- Created daily operational gains for 11 planners, saving about 2,860 hours and roughly `$160K-$190K` annually.
+- Re-architected parcel-charge and tracking jobs from legacy C#/SQL into Azure Logic Apps + modular SQL Server views.
+- Implemented fan-out/merge and multi-level parallelism to cut latency by `80%`, eliminate duplication, and restore SLA-grade alerts.
 
 ### Machine Learning Research Assistant - Duke University (Dalia Patino-Echeverri Lab)
 Sep 2025 - May 2026
 
 - Contributed to Duke's ALIGN Initiative on renewable integration and grid modernization.
-- Built a calibrated PJM wind generation model with Python, NREL SAM, NASA POWER, and EIA turbine datasets.
-- Achieved `99.1%` correlation with actual 2023 generation and authored a final research paper detailing methods and outcomes.
+- Built a calibrated PJM wind generation model using Python, NREL SAM, NASA POWER, and EIA turbine data.
+- Achieved `99.1%` correlation against real 2023 generation and authored a final research paper.
 
 ### Teaching Assistant - Duke CS/Math Department
 Jan 2025 - Dec 2025
 
 - Served courses: COMPSCI 230, COMPSCI 231, MATH 222, and MATH 230.
-- Led recitations and problem-solving sessions, supported 150+ students per semester, and provided office hours + grading support for advanced proofs.
+- Led recitations and problem-solving sessions, supporting 150+ students each semester with office hours and proof-heavy grading.
 - Received the 2025 Duke Outstanding TA Award for excellence in teaching discrete mathematics.
 
 ---
 
-## Projects
+## Featured Projects
 
 ### ClassPulse - Teaching Assistance Platform
 [GitHub](https://github.com/) | [Devpost](https://devpost.com/)
 
 - Won 2nd Place at HackDuke 2026 (Interactive Media track).
-- Built a React platform for students and teachers with AI-centered work analysis, live classroom dashboards, smart-glasses alerts, and personalized explanation videos.
-- Integrated OpenAI, Gemini, Remotion, and ElevenLabs.
+- Built a React platform with AI work analysis, live classroom dashboards, smart-glasses alerts, and personalized explanation videos.
+- Integrated OpenAI, Gemini, Remotion, and ElevenLabs for multimodal classroom support.
 
 ### BeeWise - AI-Powered Gamified News Literacy Web App
 [GitHub](https://github.com/25dlee/BeeWise) | [Devpost](https://devpost.com/)
 
-- Built a React app that scrapes articles with Goose3 and classifies political bias and sentiment using OpenAI Swarm agents.
-- Implemented badges, points, and real-time leaderboards with React Context and AWS S3.
-- Presented at HackDuke 2025 with a focus on media literacy and viewpoint diversity.
+- Built a React app that scrapes articles with Goose3 and classifies bias/sentiment using OpenAI Swarm agents.
+- Designed gamification loops with badges, points, and real-time leaderboards via React Context + AWS S3.
+- Presented at HackDuke 2025 to promote media literacy and viewpoint diversity.
 
 ### CatGetMouse Interpreter - Java Parser and Visual Simulator
 [GitHub](https://github.com/DukeAidanHall/cat-mouse-interpreter)
 
-- Developed an interpreter for a custom language using a DFA-driven SLR(1) parser, lexical scanner, and recursive polymorphic AST.
+- Developed a full interpreter for a custom language using a DFA-driven SLR(1) parser, lexical scanner, and recursive polymorphic AST.
 - Modeled control flow, conditionals, and entity behavior in a grid-based simulation environment.
 
 ---
 
-## Skills
+## Technical Stack
 
 **Programming & Frameworks**  
 Java · C · Python · Dart/Flutter · TypeScript/JavaScript · SQL · HTML/CSS · MIPS · Verilog
@@ -111,7 +116,7 @@ Unreal Engine 4 · Unity · GameMaker · Pico-8 · Godot · Logisim · JFLAP · 
 
 ---
 
-## Awards & Activities
+## Awards and Community
 
 **Awards**  
 Taco Bell Live Mas Scholar (4x, $20,000 total) · Morehead-Cain Scholarship Semifinalist · ICTM Regional Champion (2x) · ICTM State Top 10 Scorer (3x) · IML and ICTM Perfect Scorer · Del Meitz - Thomas Nelson Outstanding Math Award · WSML MVP Math Leadership Award · Hometown Pride Scholarship Finalist
