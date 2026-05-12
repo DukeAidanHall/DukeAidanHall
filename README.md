@@ -1,4 +1,4 @@
-<h1 align="center">Aidan Hall // Engineering in Public</h1>
+<h1 align="center">Aidan Hall</h1>
 
 <p align="center">
   <a href="https://speakseeker.com">Personal Website</a> •
