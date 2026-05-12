@@ -1,65 +1,120 @@
-<h1 align="center">Aidan Hall // Build Mode: ON</h1>
+<h1 align="center">Aidan Hall</h1>
 
 <p align="center">
-  <strong>CS + Math @ Duke • AI Systems • Full-Stack Engineering • Cloud Automation</strong>
+  <a href="https://speakseeker.com">Personal Website</a> •
+  <a href="https://www.linkedin.com/in/hallaidan">LinkedIn</a> •
+  <a href="https://github.com/DukeAidanHall">GitHub</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Shipping-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%2B%20Systems-7C4DFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Current-Founding%20SpeakSeeker-00B8D4?style=for-the-badge" />
+  <strong>CS + Math @ Duke | AI Systems | Full-Stack Engineering | Cloud Automation</strong>
 </p>
 
----
-
-## System Profile
-- Building AI-native products and automation infrastructure end-to-end.
-- Primary interests: autonomous agents, retrieval/ranking pipelines, cloud workflows, and data-intensive applications.
-- Incoming role at `MetLife`; currently leading development at `SpeakSeeker`.
-
----
-
-## What I Am Working On
-- **SpeakSeeker**: SaaS platform that uses AI search + intelligent matching to connect speakers and events.
-- **Energy + ML research (Duke)**: forecasting and simulation workflows for large-scale grid and load/decarbonization analysis.
-- **Applied automation**: production-grade Azure Functions/Logic Apps + SQL/D365 integration pipelines.
-
----
-
-## Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Functions-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Logic%20Apps-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dynamics%20365-1877F2?style=flat&logo=microsoftdynamics365&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Building-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Current-SpeakSeeker-00B8D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Incoming-MetLife%20Intern-7C4DFF?style=for-the-badge" />
 </p>
 
 ---
 
-## Selected Builds
+## Education
 
-| Project | Core Tech | Why It Is Cool |
-|--------|-----------|----------------|
-| **[SpeakSeeker](https://speakseeker.com)** | Python · TypeScript · FastAPI · Azure | AI-driven sourcing, ranking, and profile automation for speaker-event matching at scale. |
-| **[C(n,k)ombiEval7](https://github.com/DukeAidanHall/C-n-k-ombiEval7)** | Dart · Flutter | Replaced large lookup tables with combinatoric methods, cutting memory usage by about 98%. |
-| **[BeeWise](https://github.com/25dlee/BeeWise)** | React · Goose3 · OpenAI | Gamified news product that nudges users toward viewpoint diversity with bias-aware scoring. |
-| **[CATGETMOUSE Interpreter](https://github.com/DukeAidanHall/cat-mouse-interpreter)** | Java · JFLAP · Swing | Built an SLR(1) parser + AST visualizer for a custom language runtime. |
-| **Enterprise Integration Pipelines** | Azure Logic Apps · Azure Functions · SQL · D365 APIs | Reduced ERP workflow latency and operational friction through resilient automation patterns. |
+### Duke University
+**B.S. Computer Science + B.S. Mathematics, Digital Intelligence Certificate**  
+Aug 2023 - May 2027
+
+- Relevant coursework: Applied Machine Learning, Digital Systems, Mathematical Cryptography, Algorithm Design, Computer Architecture, Data Structures, Advanced Probability, Real Analysis, Linear Algebra, Advanced Multivariable Calculus, Discrete Math, Mathematical Finance.
+- Cumulative GPA: `3.9/4.0` | 2x Dean's List with Distinction | CS Department Outstanding TA Award.
+
+### York Community High School
+Aug 2019 - May 2023
+
+- Relevant coursework: ACP Calculus III, DE 2D Game Design Honors, AP Computer Science, AP Statistics, AP Physics.
+- SAT: `1560/1600` | Weighted GPA: `4.9` | Unweighted GPA: `4.0` | AP Scholar with Distinction.
 
 ---
 
-## Signal
-- CS Department **Outstanding TA Award** recipient.
-- Frequent builder in AI, applied math, and systems-heavy project spaces.
-- Always open to collaborating on technically ambitious products.
+## Work Experience
+
+### Incoming Global Technology Intern - MetLife
+June 2026 - Aug 2026
+
+- Will contribute to production software engineering projects as a METx intern.
+- Will develop and test full-stack solutions in Agile teams using modern cloud and AI tooling.
+
+### Full-Stack Developer / Founder - SpeakSeeker
+Aug 2025 - Present
+
+- Leading development of `speakseeker.com`, a SaaS platform using AI-powered search, scraping, and intelligent matching for speakers and events.
+- Building dynamic profile creation, advanced filters, messaging, and contract-management workflows.
+- Developing AI agents that source users, generate accounts, and deliver completed profiles to automate onboarding.
+
+### Software Engineer Intern - Dexter Axle Company
+May 2025 - Aug 2025
+
+- Designed a PO-attachment automation flow with Azure Functions + D365 APIs, transforming a manual 1-minute upload into a 5-second email-forward process.
+- Delivered daily operational gains for 11 planners, saving about 2,860 hours and roughly `$160K-$190K` annually.
+- Re-architected parcel-charge and tracking pipelines from legacy C#/SQL jobs into Azure Logic Apps + modular SQL Server views.
+- Implemented fan-out/merge and multi-level parallelism patterns to reduce latency by 80%, eliminate duplication, and restore SLA-grade alerts.
+
+### Machine Learning Research Assistant - Duke University (Dalia Patino-Echeverri Lab)
+Sep 2025 - May 2026
+
+- Contributed to Duke's ALIGN Initiative on renewable integration and grid modernization.
+- Built a calibrated PJM wind generation model with Python, NREL SAM, NASA POWER, and EIA turbine datasets.
+- Achieved `99.1%` correlation with actual 2023 generation and authored a final research paper detailing methods and outcomes.
+
+### Teaching Assistant - Duke CS/Math Department
+Jan 2025 - Dec 2025
+
+- Served courses: COMPSCI 230, COMPSCI 231, MATH 222, and MATH 230.
+- Led recitations and problem-solving sessions, supported 150+ students per semester, and provided office hours + grading support for advanced proofs.
+- Received the 2025 Duke Outstanding TA Award for excellence in teaching discrete mathematics.
+
+---
+
+## Projects
+
+### ClassPulse - Teaching Assistance Platform
+[GitHub](https://github.com/) | [Devpost](https://devpost.com/)
+
+- Won 2nd Place at HackDuke 2026 (Interactive Media track).
+- Built a React platform for students and teachers with AI-centered work analysis, live classroom dashboards, smart-glasses alerts, and personalized explanation videos.
+- Integrated OpenAI, Gemini, Remotion, and ElevenLabs.
+
+### BeeWise - AI-Powered Gamified News Literacy Web App
+[GitHub](https://github.com/25dlee/BeeWise) | [Devpost](https://devpost.com/)
+
+- Built a React app that scrapes articles with Goose3 and classifies political bias and sentiment using OpenAI Swarm agents.
+- Implemented badges, points, and real-time leaderboards with React Context and AWS S3.
+- Presented at HackDuke 2025 with a focus on media literacy and viewpoint diversity.
+
+### CatGetMouse Interpreter - Java Parser and Visual Simulator
+[GitHub](https://github.com/DukeAidanHall/cat-mouse-interpreter)
+
+- Developed an interpreter for a custom language using a DFA-driven SLR(1) parser, lexical scanner, and recursive polymorphic AST.
+- Modeled control flow, conditionals, and entity behavior in a grid-based simulation environment.
+
+---
+
+## Skills
+
+**Programming & Frameworks**  
+Java · C · Python · Dart/Flutter · TypeScript/JavaScript · SQL · HTML/CSS · MIPS · Verilog
+
+**Tools & Platforms**  
+Azure Logic Apps · Dynamics 365 · n8n · OpenAI Swarm · Vertex AI Studio · Flask · React · AWS S3 · GitHub
+
+**Game & Simulation Tech**  
+Unreal Engine 4 · Unity · GameMaker · Pico-8 · Godot · Logisim · JFLAP · Desmos
+
+---
+
+## Awards & Activities
+
+**Awards**  
+Taco Bell Live Mas Scholar (4x, $20,000 total) · Morehead-Cain Scholarship Semifinalist · ICTM Regional Champion (2x) · ICTM State Top 10 Scorer (3x) · IML and ICTM Perfect Scorer · Del Meitz - Thomas Nelson Outstanding Math Award · WSML MVP Math Leadership Award
+
+**Activities**  
+Theta Chi Fraternity · Club Rowing · Adaptive Explorers · Hackathons · Duke FOCUS · Math Union · Weightlifting
